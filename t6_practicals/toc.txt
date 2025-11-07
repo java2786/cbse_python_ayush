@@ -1,0 +1,34 @@
+Basic
+List
+tuple
+Dictionary
+String
+Function
+File Handling
+Exception Handling
+Modules
+
+Mix
+Pattern
+
+
+1. Fibonacci series - 0 1 1 2 3 5 8 13 ... (find nth term)
+2. Factorial - 1 .. N - mul 
+
+3. given number 4327
+    a. find sum of all digits - 16
+    b. find reverse - 7234
+    c. isPalindrome - same for both direction (121, 13431)
+
+4. Armstrong number 
+    given number 8732
+        cound digit - 4
+        add => each digit ^ 4
+        result is same as original
+
+    given number 153
+        cound digit - 3
+        add => each digit ^ 3 => 1 + 125 + 27 => 153
+        result is same as original
+
+        
