@@ -1,0 +1,33 @@
+Data -> store ?
+
+    paper -> modification/edit/delete not possible -> not a database
+    file - excel, pdf, txt -> database
+    database management system -> query -> mysql, oracle
+    
+    
+24 months
+
+
+file -> used to store info, data
+
+read write -> using python
+
+
+
+File handling modes:
+r -> read mode
+w -> write mode
+a -> append mode 
+
+text/binary
+rb -> read binary mode 
+rt -> read text mode 
+
+r+ -> read and write 
+w+ -> write and read 
+a+ -> append and read
+
+
+home work
+r+ -> will it make file empty and write ?
+w+ -> 
