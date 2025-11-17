@@ -1,0 +1,12 @@
+# relative path
+filename = 'nature.mp3'
+
+# 'w' is used to open file in write mode but it makes file empty and then write
+# mode = 'w'
+
+# 'a' is append mode
+mode = 'a'
+with open(filename, mode) as f_obj:
+    f_obj.write("Nature is bueatiful.\n")
+    f_obj.write("I love nature.\n")
+    

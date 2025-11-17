@@ -1,0 +1,18 @@
+management
+time safty
+efficient
+
+
+==========> 
+    data persist
+
+
+types of file:
+    binary - dat, bin, images, videos
+    csv - 
+    text 
+
+mode
+========
+    r, r+, rb -> read
+    w, a, , w+, a+, wb -> creates file if not exists

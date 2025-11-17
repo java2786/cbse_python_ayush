@@ -1,0 +1,21 @@
+File -> data -> 
+
+=> without exception handling 
+
+1. Count lines
+2. Count words
+3. Count characters
+4. Copy data into new file 
+5. Count vowels and consonents
+6. Show lines starting with Capital letter only
+7. Search if file has 'dream' 
+
+my
+
+this is my name. 
+I live in Delhi.
+my fav food is 123.
+My dream is to ...
+
+
+
